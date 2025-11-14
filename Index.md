@@ -1,5 +1,5 @@
-# 💻 **PORTAFOLIO – UNIDAD 1**
-## Teoría de la Programación
+# 💻 **PORTAFOLIO**
+## Matematicas Discretas
 
 <img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/03be342e-cafd-4430-91bf-5cb780dd816c" />
 
