@@ -1,5 +1,5 @@
 # 💻 **PORTAFOLIO**
-## 🧮 Matematicas Discretas 🧮
+## 🧮 Matemáticas  Discretas 🧮
 
 ![mate copia](https://github.com/user-attachments/assets/0e812134-bc28-43bb-87bd-7b92ad218526)
 
@@ -9,19 +9,18 @@
 ## 🏛️ Carrera
 Computación 
 ## 📘 Asignatura 
-Teoría de la Programación
+Matemáticas Discretas 
 ## 🧩 Ciclo 
 Primer Ciclo
 ## 📅 Periodo Académico 
 Septiembre 2025 – Febrero 2026
 ## 👩‍🏫 Docente 
-Ing. Lissette Geoconda López Faicán
+Ing. Cueva Hurtado Mario Enrique
 ## 👨‍🎓 Estudiante
 Bayron Alexander Coronel Sarango
 
-### 📘 Unidad 1 – Fundamentos de la Programación  
-Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
+### 📘 Actividades de la Unidad 1 
 [🔑 El inicio de todo 🔑](Datos/Unidad1.md)
 
-### 🧩 Unidad 2 
-### ⚙️ Unidad 3 
+### 🧩 Actividades de la Unidad 2 
+### ⚙️ Actividades de la Unidad 3 
