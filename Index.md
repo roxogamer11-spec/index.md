@@ -18,6 +18,12 @@ Ing. Cueva Hurtado Mario Enrique
 ## 👨‍🎓 Estudiante
 Bayron Alexander Coronel Sarango
 
+---
+
+> *“En las matemáticas discretas, cada idea es un paso lógico que construye soluciones grandes a partir de piezas pequeñas.”*
+
+---
+
 ### 📘 Actividades de la Unidad 1 
 [🔑Hacer clic🔑](Documentos/Documentos.md)
 
