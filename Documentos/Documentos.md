@@ -9,3 +9,5 @@
 
 ## 📝Actividades AA
 📙**AA. LECTURA Y EJERCICIOS**✍️
+
+📓**AA2:Portafolio de Matemáticas Discretas**📓
