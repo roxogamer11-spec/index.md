@@ -1,7 +1,7 @@
 # 💻 **PORTAFOLIO**
 ## 🧮 Matemáticas  Discretas 🧮
 
-<img width="800" height="183" alt="Untitled Project" src="https://github.com/user-attachments/assets/8df0800a-8a7b-4efe-a295-23e10a0f5e3a" />
+<img width="800" height="154" alt="Untitled Project (1)" src="https://github.com/user-attachments/assets/bb9300d5-640d-4bc8-9956-f20a5f713856" />
 
 
 
