@@ -8,3 +8,4 @@
 🤓 **ACD2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))** 🤓
 
 ## 📝Actividades AA
+📙**AA. LECTURA Y EJERCICIOS**✍️
