@@ -3,6 +3,6 @@
 
 
 ## 📘Actividades ACD
-
+**🧠ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD**🧠
 
 ## 📝Actividades AA
