@@ -1,7 +1,8 @@
 # 💻 **PORTAFOLIO**
 ## 🧮 Matemáticas  Discretas 🧮
 
-![mate copia](https://github.com/user-attachments/assets/0e812134-bc28-43bb-87bd-7b92ad218526)
+<img width="800" height="183" alt="Untitled Project" src="https://github.com/user-attachments/assets/8df0800a-8a7b-4efe-a295-23e10a0f5e3a" />
+
 
 
 ## 🏛️ Universidad Nacional de Loja
