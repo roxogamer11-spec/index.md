@@ -1,5 +1,4 @@
 # 💻 **PORTAFOLIO**
-## 🧮 Matemáticas  Discretas 🧮
 
 <img width="800" height="133" alt="Untitled Project" src="https://github.com/user-attachments/assets/986b34d0-03d1-4c9f-a798-6e1117c75bc4" />
 
