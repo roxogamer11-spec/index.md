@@ -1,5 +1,5 @@
 ## 📚Actividades APE
-✏️**RESOLUCION DE EJERCICIOS**✏️
+✏️**APE: RESOLUCION DE EJERCICIOS**✏️
 
 
 ## 📘Actividades ACD
@@ -8,6 +8,6 @@
 🤓 **ACD2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))** 🤓
 
 ## 📝Actividades AA
-📙**AA. LECTURA Y EJERCICIOS**✍️
+📙**AA: LECTURA Y EJERCICIOS**✍️
 
-📓**AA2:Portafolio de Matemáticas Discretas**📓
+📓**AA2: Portafolio de Matemáticas Discretas**📓
